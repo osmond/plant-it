@@ -32,9 +32,9 @@ final ThemeData theme = ThemeData(
   // Text styles
   textTheme: const TextTheme(
     bodyMedium: TextStyle(
-        color: Color.fromARGB(255, 221, 220, 220)), // Default text color
+        color: Colors.red), // Default text color
     bodyLarge: TextStyle(
-        color: Color.fromARGB(255, 221, 220, 220)), // Large body text color
+        color: Colors.red), // Large body text color
   ),
 
   // Radio button style
